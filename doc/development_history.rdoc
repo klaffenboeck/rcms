@@ -1,0 +1,5 @@
+== Development history
+
+1. Generated app
+  
+    rails new RCMS
